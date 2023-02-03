@@ -18,7 +18,7 @@ public class UserTests {
         String test_password = "pass123";
         String test_first_name = "Gareth";
         String test_last_name = "Bolton";
-        String test_mobile_number = "07567834438";
+        String test_mobile_number = "07567834437";
 
         //creating user object
         User testUser = new User(test_username, test_password, test_first_name, test_last_name, test_mobile_number);
